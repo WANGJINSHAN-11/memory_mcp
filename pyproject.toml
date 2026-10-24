@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "plaintext-memory-mcp"
-version = "0.2.0"
+version = "0.6.0"
 description = "本地纯文本长期记忆 MCP 服务器：一份记忆目录，多个 AI 客户端共用（Cherry Studio / Claude Desktop / DeepSeek Harness）"
 readme = "README.md"
 requires-python = ">=3.10"
